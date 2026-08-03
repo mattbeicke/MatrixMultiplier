@@ -1,0 +1,17 @@
+# Visual Studio Cache and User-specific files
+.vs/
+*.user
+*.suo
+
+# Build Outputs
+x64/
+MatrixMultiplier/x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.recipe
+*.log
+*.tlog/
+*.idb
+
