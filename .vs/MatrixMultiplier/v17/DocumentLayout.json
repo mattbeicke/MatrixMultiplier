@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4495A8BC-8119-421C-9616-5E76189DE532}|MatrixMultiplier\\MatrixMultiplier.vcxproj|C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4495A8BC-8119-421C-9616-5E76189DE532}|MatrixMultiplier\\MatrixMultiplier.vcxproj|solutionrelative:MatrixMultiplier\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4495A8BC-8119-421C-9616-5E76189DE532}|MatrixMultiplier\\MatrixMultiplier.vcxproj|C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4495A8BC-8119-421C-9616-5E76189DE532}|MatrixMultiplier\\MatrixMultiplier.vcxproj|solutionrelative:MatrixMultiplier\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Main.cpp",
+              "RelativeDocumentMoniker": "MatrixMultiplier\\Main.cpp",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Main.cpp",
+              "RelativeToolTip": "MatrixMultiplier\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T00:22:55.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Matrix.cpp",
+              "RelativeDocumentMoniker": "MatrixMultiplier\\Matrix.cpp",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\MatrixMultiplier\\MatrixMultiplier\\Matrix.cpp",
+              "RelativeToolTip": "MatrixMultiplier\\Matrix.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T00:23:01.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
